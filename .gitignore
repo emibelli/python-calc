@@ -1,0 +1,6 @@
+# IntelliJ files and directories
+.idea
+*.iml
+
+# Visual Studio Code files and directories
+.vscode
